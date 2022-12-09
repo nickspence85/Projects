@@ -1,1 +1,1 @@
-This public repository contains side some of my fun side projects
+This public repository contains side some of my fun side projects.
